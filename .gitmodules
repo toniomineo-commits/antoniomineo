@@ -1,3 +1,6 @@
 [submodule "OpenHealth"]
 	path = OpenHealth
 	url = https://github.com/toniomineo-commits/OpenHealth.git
+[submodule "clayforchange"]
+	path = clayforchange
+	url = https://github.com/toniomineo-commits/clayforchange.git
